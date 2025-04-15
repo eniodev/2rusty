@@ -12,7 +12,7 @@ The name was my girlfriend's choice - she says it’s meant to inspire people to
 - Syntax analysis
 - Semantic analysis
 - Intermediate codegen
-- code optimization
+- Code optimization
 - Final codegen
 
 # How to contribute ?
