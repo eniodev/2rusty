@@ -18,3 +18,7 @@ The name was my girlfriend's choice - she says it’s meant to inspire people to
 # How to contribute ?
 
 Send your PR! (a template will be available soon)
+
+# Some rules for this to work out :)
+
+- Number 0 : We, gladly, would like this project to be AI free.
